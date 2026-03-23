@@ -22958,6 +22958,13 @@
     "nextlayerid": 41,
     "nextobjectid": 19,
     "orientation": "orthogonal",
+    "properties": [
+        {
+         "name":"script",
+         "type":"string",
+         "value":"script_iframe_api.js"
+        }
+    ],
     "renderorder": "right-down",
     "tileheight": 32,
     "tilewidth": 32,
