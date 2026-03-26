@@ -18360,7 +18360,7 @@
                 },
                 {
                     "id": 8,
-                    "name": "coWebsite",
+                    "name": "BBB Meetings History",
                     "visible": true,
                     "x": 1280,
                     "y": 64,
@@ -18369,7 +18369,7 @@
                         {
                             "name": "openWebsite",
                             "type": "string",
-                            "value": "https://a254-2804-d51-7a90-7800-b388-e49a-11d4-73e3.ngrok-free.app/worka/history"
+                            "value": "https://lti.h.elos.dev/worka/history"
                         },
                         {
                             "name": "openWebsitePolicy",
