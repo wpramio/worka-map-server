@@ -18369,7 +18369,7 @@
                         {
                             "name": "openWebsite",
                             "type": "string",
-                            "value": "https://freely-touched-quail.ngrok-free.app/worka/history"
+                            "value": "http://localhost:3002/worka/history"
                         },
                         {
                             "name": "openWebsitePolicy",
